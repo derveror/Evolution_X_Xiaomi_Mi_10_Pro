@@ -1,4 +1,4 @@
-#Evolution X Xiaomi Mi 10 Pro
+# Evolution X Xiaomi Mi 10 Pro
 
 ![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_2.png?raw=true)
 ```
