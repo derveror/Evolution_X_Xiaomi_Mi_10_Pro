@@ -13,7 +13,7 @@ Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_Xi
 
 # Credits
 
-| Luffitys                         | [Link](https://github.com/Luffitys) |
+| xiaomi-sm8250-devs                         | [Link](https://github.com/xiaomi-sm8250-devs) |
 
 | LineageOS                         | [Link](https://github.com/LineageOS) |
 
